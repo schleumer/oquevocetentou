@@ -10,7 +10,7 @@ O problema é: existe uma doença no mundo do desenvolvimento de software. É um
 Agora, um esclarecimento rápido antes que eu continue: quando eu digo *novos empregados(?)*, eu não digo só os graduados e outras pessoas mais novas. A quem diga que isso é um problema do sistemas de educação ocidental, e que tais coisas eram melhores no passado. Pode ser verdade ou não, mas eu não estou qualificado para dizer e essa não é a ideia que estou tentando trocar aqui. A ideia que *tô* tentando trocar se aplica tanto para os *noobs* quanto para os *tiozinhos*.
 
 
-Essa doença, claro, é a iniciativa falha para resolver problemas(ou seus deveres de casa). Aqui um exemplo, que é uma citação de uma postagem real de um grupo de uma rede social:
+Essa doença, claro, é a iniciativa falha para resolver problemas(ou seus deveres de casa). Aqui um exemplo, que é uma dramatização de uma postagem real de um grupo de uma rede social:
 
 
 	1) da pra acessa o banco de dados pelo php
