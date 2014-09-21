@@ -1,12 +1,19 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
-
+name: O que você tentou?
+description: "Um pouco sobre como formular perguntas e ajudar para ser ajudadado."
+meta_description: "Um pouco sobre como formular perguntas e ajudar para ser ajudadado."
+brand: OQVT?
+encoding: UTF-8
 markdown: redcarpet
-pygments: true
 logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+#url:            'http://schleumer.github.io/oquevocetentou/'
+url:            ''
+author:         'A.P.D.A'
+
+links:
+  - url: 'https://www.facebook.com/groups/osadpa'
+    label: 'A.P.D.A'
+  - url: 'http://forum.energylabs.com.br/'
+    label: 'Energy Labs'
