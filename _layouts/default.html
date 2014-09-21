@@ -47,12 +47,7 @@
     </div>
 
     <div class="container">
-      <div id="the-text">
-        {% markdown %}{% include header.md %}{% endmarkdown %}
-        <div class="text-row">
-          {% markdown %}{% include page.md %}{% endmarkdown %}
-        </div>
-      </div>
+      {{ content }}
       <footer>
         <small>
           texto localizado da sua fonte:

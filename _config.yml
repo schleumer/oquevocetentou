@@ -1,6 +1,6 @@
 name: O que você tentou?
-description: "Um pouco sobre como formular perguntas e ajudar para ser ajudadado."
-meta_description: "Um pouco sobre como formular perguntas e ajudar para ser ajudadado."
+description: "Um pouco sobre como ajudar para ser ajudadado."
+meta_description: "Um pouco sobre como ajudar para ser ajudadado."
 brand: OQVT?
 encoding: UTF-8
 markdown: redcarpet
@@ -17,6 +17,3 @@ links:
     label: 'A.P.D.A'
   - url: 'http://forum.energylabs.com.br/'
     label: 'Energy Labs'
-
-gems:
-- jekyll-markdown-block

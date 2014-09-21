@@ -104,4 +104,5 @@ Não somente para evitar encher o saco de alguém que estaria disposto para dar 
 
 Então na proxima vez que você estiver pensando em tirar uma dúvida, é melhor você estar pronto e com uma resposta convincente quando te perguntarem "O que você tentou?".
 
+
 E se você responder com um "não muito", tome nota: a proxima pergunta que você receberá é: __"Por que eu deveria ajuda-lo?"__
