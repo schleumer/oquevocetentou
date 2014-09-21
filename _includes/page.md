@@ -86,7 +86,7 @@ Tente pegar alguns minutos para executar esses topicos:
 
 - Quem quer que seja que criou a linguagem, framework ou API que você está usando também criou um tanto de códigos de exemplo; sério, eles fizeram isso. Isso é feito para te ajudar com qualquer tarefa comum, e possívelmente existe um código pronto(ou quase) do que você quer fazer. Isso vai te tomar só alguns segundo para dar uma olhadinha, e você ainda pode achar bastante código que pode te ajudar no futuro!
 
-- Use o navegador de documentação embutido na sua IDE, ou editor, até o **VIM** possui um navegador de documentação embutido, sua IDE com certeza terá! Eclipse, Intellij IDEA, Netbeans, etc. vão te mostrar a documentação do Java. [PHP.net](php.net) vai te ajudar com seus scripts PHP. Ache a referencia(documentação) do que você está trabalhando e procure nela. Você vai achar coisas que irão te ajudar quase sempre.
+- Use o navegador de documentação embutido na sua IDE, ou editor, até o **VIM** possui um navegador de documentação embutido, sua IDE com certeza terá! Eclipse, Intellij IDEA, Netbeans, etc. vão te mostrar a documentação do Java. [PHP.net](http://php.net/) vai te ajudar com seus scripts PHP. Ache a referencia(documentação) do que você está trabalhando e procure nela. Você vai achar coisas que irão te ajudar quase sempre.
 
 
 OK, você viu os passos e tentou pelo menos alguns deles. Agora eu posso te dar as congratulações. Ou se você resolveu seu problema(yay!), ou se você já está pronto para *ser ajudado*.
