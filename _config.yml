@@ -17,3 +17,6 @@ links:
     label: 'A.P.D.A'
   - url: 'http://forum.energylabs.com.br/'
     label: 'Energy Labs'
+
+gems:
+- jekyll-markdown-block
