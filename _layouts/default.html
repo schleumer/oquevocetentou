@@ -48,9 +48,9 @@
 
     <div class="container">
       <div id="the-text">
-        {% markdown header.md %}
+        {% markdown %}{% include header.md %}{% endmarkdown %}
         <div class="text-row">
-          {% markdown page.md %}
+          {% markdown %}{% include page.md %}{% endmarkdown %}
         </div>
       </div>
       <footer>
