@@ -4,7 +4,7 @@ Se você é um desenvolvedor e pretende pedir auxilio técnico para outro desenv
 Isso com certeza não é especifico somente dos desenvolvedores, mas essa é minha área e é nessa área que estou acostumado com esse problema que motivou-me a escrever isso. Fico #chateado em pensar que isso se aplica na sua área também, qualquer que ela seja.
 
 
-O problema é: existe uma doença no mundo do desenvolvimento de software. É uma doença incomum, calma, não é algo que se pega quando entra nessa área(tipo cabelos grizalhos, vicio por cafeína e ulcera), mas é algo que, praticamente todos os *novos empregados(?)* já possuem quando entram na área.
+O problema é: existe uma doença no mundo do desenvolvimento de software. É uma doença incomum, calma, não é algo que se pega quando entra nessa área(tipo cabelos grisalhos, vício por cafeína e úlcera), mas é algo que, praticamente todos os *novos empregados(?)* já possuem quando entram na área.
 
 
 Agora, um esclarecimento rápido antes que eu continue: quando eu digo *novos empregados(?)*, eu não digo só os graduados e outras pessoas mais novas. A quem diga que isso é um problema do sistemas de educação ocidental, e que tais coisas eram melhores no passado. Pode ser verdade ou não, mas eu não estou qualificado para dizer e essa não é a ideia que estou tentando trocar aqui. A ideia que *tô* tentando trocar se aplica tanto para os *noobs* quanto para os *tiozinhos*.
@@ -30,7 +30,7 @@ O problema é a forma dessa pessoa solucionar seus problemas é pedir por uma so
 Um ponto interessante para notar aqui é que o exemplo acima não é tão ruim; tem até um pequeno raio de luz encontrado na afirmação dessa pessoa "eu já olhei a `mysql_query` mas não entendi". Isso demonstra um pouco de confiança, porque `mysql_query` é um metodo para acessar o banco de dados(apesar de não ser o correto) no PHP. Pelo jeito, parece que *"dar uma olhada"* foi a unica coisa que nosso amigo fez -- "mas não entendi", e morreu.
 
 
-Isso é um problema que vemos diariamente(e eu não falo sobre conexões ao banco de dados). Existe uma turma de paga-pau de desenvolvedor que sua primeira e ultima tatica quando há um problema é sair pedindo para alguém soluciona-lo, normalmente em grupos de redes sociais e sessões de ajuda em fóruns. Seus principais propositos são iguais aos nossos -- ter o código para resolver o problema, que é presumidamente entregado ao cliente. Esse proposito é um tanto quanto normal.
+Isso é um problema que vemos diariamente(e eu não falo sobre conexões ao banco de dados). Existe uma turma de paga-pau de desenvolvedor que sua primeira e ultima tatica quando há um problema é sair pedindo para alguém soluciona-lo, normalmente em grupos de redes sociais e sessões de ajuda em fóruns. Seus principais propositos são iguais aos nossos -- ter o código para resolver o problema, que é presumidamente entregue ao cliente. Esse proposito é um tanto quanto normal.
 
 
 O que não é normal é a extrema *má vontade*(reluto em dizer *incapacidade* -- porque apesar de tudo, algumas coisas são bem *dificeis*, mesmo que com esforço) para alcançar esse proposito por um processo de *autodidatismo*, tentativas honestas e o classico processo de refinamento e melhoramento até que algo se crie. Esse processo, além de te deixar mais *profissa*, te deixa preparado para seu proximo desafio, e futuramente você vai perceber que:
