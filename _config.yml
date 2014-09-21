@@ -7,9 +7,7 @@ markdown: redcarpet
 logo: false
 paginate: 15
 
-# Details for the RSS feed generator
-#url:            'http://schleumer.github.io/oquevocetentou/'
-url:            ''
+url:            'http://schleumer.github.io/oquevocetentou/'
 author:         'A.P.D.A'
 
 links:
