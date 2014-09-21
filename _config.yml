@@ -4,6 +4,8 @@ meta_description: "Um pouco sobre como ajudar para ser ajudadado."
 brand: OQVT?
 encoding: UTF-8
 markdown: redcarpet
+redcarpet:
+  extensions: ['smart']
 logo: false
 paginate: 15
 
